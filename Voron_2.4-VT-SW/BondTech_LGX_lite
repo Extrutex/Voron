@@ -1,0 +1,13 @@
+# LGX Lite für Voron CW2 Stealthburner
+
+Dieses Modifikationspaket schafft unsere Unterstützung für LGX Lite am Stealthburner mit Funktionen wie Ebb36-Unterstützung,
+verschiedenen Hotend-Halterungen von Slice Engineering und sogar CPAP-Kühlungsunterstützung, wenn Sie hierher gehen:
+[Link](https://github.com/ogland/Printer-mods/tree/main/V2/CPAP)
+
+Die Stückliste hängt davon ab, welche Module Sie benötigen,
+und geht davon aus, dass Sie die spezifischen Befestigungselemente bereit haben, also gehen Sie zu den Ordnern, um Ihre Version zu finden.
+
+Danke an ByThorsThunder für die Arbeit mit dem längeren SB-Frontteil und Hotend-Halterung:
+[Link](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
+
+Und danke an alle Tester im fantastischen Voron Discord, die uns während des Entwicklungsprozesses viel Feedback gegeben haben.
